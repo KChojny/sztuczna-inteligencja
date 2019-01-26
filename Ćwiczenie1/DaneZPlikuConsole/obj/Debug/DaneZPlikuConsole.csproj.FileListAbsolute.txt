@@ -1,0 +1,31 @@
+C:\Users\JacekL\Documents\Visual Studio 2015\Projects\DaneZPlikuConsole\DaneZPlikuConsole\bin\Debug\DaneZPlikuConsole.exe.config
+C:\Users\JacekL\Documents\Visual Studio 2015\Projects\DaneZPlikuConsole\DaneZPlikuConsole\bin\Debug\DaneZPlikuConsole.exe
+C:\Users\JacekL\Documents\Visual Studio 2015\Projects\DaneZPlikuConsole\DaneZPlikuConsole\bin\Debug\DaneZPlikuConsole.pdb
+C:\Users\JacekL\Documents\Visual Studio 2015\Projects\DaneZPlikuConsole\DaneZPlikuConsole\obj\Debug\DaneZPlikuConsole.csprojResolveAssemblyReference.cache
+C:\Users\JacekL\Documents\Visual Studio 2015\Projects\DaneZPlikuConsole\DaneZPlikuConsole\obj\Debug\DaneZPlikuConsole.exe
+C:\Users\JacekL\Documents\Visual Studio 2015\Projects\DaneZPlikuConsole\DaneZPlikuConsole\obj\Debug\DaneZPlikuConsole.pdb
+C:\Users\Admin\Desktop\SI-c1\starter-Csharp\DaneZPlikuConsole\DaneZPlikuConsole\bin\Debug\DaneZPlikuConsole.exe.config
+C:\Users\Admin\Desktop\SI-c1\starter-Csharp\DaneZPlikuConsole\DaneZPlikuConsole\obj\Debug\DaneZPlikuConsole.exe
+C:\Users\Admin\Desktop\SI-c1\starter-Csharp\DaneZPlikuConsole\DaneZPlikuConsole\obj\Debug\DaneZPlikuConsole.pdb
+C:\Users\Admin\Desktop\SI-c1\starter-Csharp\DaneZPlikuConsole\DaneZPlikuConsole\obj\Debug\DaneZPlikuConsole.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\SI-c1\starter-Csharp\DaneZPlikuConsole\DaneZPlikuConsole\bin\Debug\DaneZPlikuConsole.exe
+C:\Users\Admin\Desktop\SI-c1\starter-Csharp\DaneZPlikuConsole\DaneZPlikuConsole\bin\Debug\DaneZPlikuConsole.pdb
+D:\Ćwiczenie1_Łukasz_Stryjewski\starter-Csharp\DaneZPlikuConsole\DaneZPlikuConsole\bin\Debug\DaneZPlikuConsole.exe.config
+D:\Ćwiczenie1_Łukasz_Stryjewski\starter-Csharp\DaneZPlikuConsole\DaneZPlikuConsole\obj\Debug\DaneZPlikuConsole.exe
+D:\Ćwiczenie1_Łukasz_Stryjewski\starter-Csharp\DaneZPlikuConsole\DaneZPlikuConsole\obj\Debug\DaneZPlikuConsole.pdb
+D:\Ćwiczenie1_Łukasz_Stryjewski\starter-Csharp\DaneZPlikuConsole\DaneZPlikuConsole\bin\Debug\DaneZPlikuConsole.exe
+D:\Ćwiczenie1_Łukasz_Stryjewski\starter-Csharp\DaneZPlikuConsole\DaneZPlikuConsole\bin\Debug\DaneZPlikuConsole.pdb
+D:\Ćwiczenie1_Łukasz_Stryjewski\starter-Csharp\DaneZPlikuConsole\DaneZPlikuConsole\obj\Debug\DaneZPlikuConsole.csprojResolveAssemblyReference.cache
+C:\Users\Łukasz\Documents\Ćwiczenie1_Łukasz_Stryjewski\Ćwiczenie1_Łukasz_Stryjewski\starter-Csharp\DaneZPlikuConsole\DaneZPlikuConsole\bin\Debug\DaneZPlikuConsole.exe.config
+C:\Users\Łukasz\Documents\Ćwiczenie1_Łukasz_Stryjewski\Ćwiczenie1_Łukasz_Stryjewski\starter-Csharp\DaneZPlikuConsole\DaneZPlikuConsole\bin\Debug\DaneZPlikuConsole.exe
+C:\Users\Łukasz\Documents\Ćwiczenie1_Łukasz_Stryjewski\Ćwiczenie1_Łukasz_Stryjewski\starter-Csharp\DaneZPlikuConsole\DaneZPlikuConsole\bin\Debug\DaneZPlikuConsole.pdb
+C:\Users\Łukasz\Documents\Ćwiczenie1_Łukasz_Stryjewski\Ćwiczenie1_Łukasz_Stryjewski\starter-Csharp\DaneZPlikuConsole\DaneZPlikuConsole\obj\Debug\DaneZPlikuConsole.csprojResolveAssemblyReference.cache
+C:\Users\Łukasz\Documents\Ćwiczenie1_Łukasz_Stryjewski\Ćwiczenie1_Łukasz_Stryjewski\starter-Csharp\DaneZPlikuConsole\DaneZPlikuConsole\obj\Debug\DaneZPlikuConsole.exe
+C:\Users\Łukasz\Documents\Ćwiczenie1_Łukasz_Stryjewski\Ćwiczenie1_Łukasz_Stryjewski\starter-Csharp\DaneZPlikuConsole\DaneZPlikuConsole\obj\Debug\DaneZPlikuConsole.pdb
+C:\Users\Użytkownik\Desktop\Ćwiczenie1\starter-Csharp\DaneZPlikuConsole\DaneZPlikuConsole\bin\Debug\DaneZPlikuConsole.exe.config
+C:\Users\Użytkownik\Desktop\Ćwiczenie1\starter-Csharp\DaneZPlikuConsole\DaneZPlikuConsole\bin\Debug\DaneZPlikuConsole.exe
+C:\Users\Użytkownik\Desktop\Ćwiczenie1\starter-Csharp\DaneZPlikuConsole\DaneZPlikuConsole\bin\Debug\DaneZPlikuConsole.pdb
+C:\Users\Użytkownik\Desktop\Ćwiczenie1\starter-Csharp\DaneZPlikuConsole\DaneZPlikuConsole\obj\Debug\DaneZPlikuConsole.csprojAssemblyReference.cache
+C:\Users\Użytkownik\Desktop\Ćwiczenie1\starter-Csharp\DaneZPlikuConsole\DaneZPlikuConsole\obj\Debug\DaneZPlikuConsole.csproj.CoreCompileInputs.cache
+C:\Users\Użytkownik\Desktop\Ćwiczenie1\starter-Csharp\DaneZPlikuConsole\DaneZPlikuConsole\obj\Debug\DaneZPlikuConsole.exe
+C:\Users\Użytkownik\Desktop\Ćwiczenie1\starter-Csharp\DaneZPlikuConsole\DaneZPlikuConsole\obj\Debug\DaneZPlikuConsole.pdb
