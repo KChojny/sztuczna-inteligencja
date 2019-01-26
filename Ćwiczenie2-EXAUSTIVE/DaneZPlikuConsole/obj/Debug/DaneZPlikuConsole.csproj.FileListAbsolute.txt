@@ -1,0 +1,23 @@
+C:\Users\JacekL\Documents\Visual Studio 2015\Projects\DaneZPlikuConsole\DaneZPlikuConsole\bin\Debug\DaneZPlikuConsole.exe.config
+C:\Users\JacekL\Documents\Visual Studio 2015\Projects\DaneZPlikuConsole\DaneZPlikuConsole\bin\Debug\DaneZPlikuConsole.exe
+C:\Users\JacekL\Documents\Visual Studio 2015\Projects\DaneZPlikuConsole\DaneZPlikuConsole\bin\Debug\DaneZPlikuConsole.pdb
+C:\Users\JacekL\Documents\Visual Studio 2015\Projects\DaneZPlikuConsole\DaneZPlikuConsole\obj\Debug\DaneZPlikuConsole.csprojResolveAssemblyReference.cache
+C:\Users\JacekL\Documents\Visual Studio 2015\Projects\DaneZPlikuConsole\DaneZPlikuConsole\obj\Debug\DaneZPlikuConsole.exe
+C:\Users\JacekL\Documents\Visual Studio 2015\Projects\DaneZPlikuConsole\DaneZPlikuConsole\obj\Debug\DaneZPlikuConsole.pdb
+C:\Users\JacekL\Dysk Google\UWM\Sztuczna Inteligencja\Programy SI\CW2\DaneZPlikuConsole\DaneZPlikuConsole\bin\Debug\DaneZPlikuConsole.exe.config
+C:\Users\JacekL\Dysk Google\UWM\Sztuczna Inteligencja\Programy SI\CW2\DaneZPlikuConsole\DaneZPlikuConsole\obj\Debug\DaneZPlikuConsole.exe
+C:\Users\JacekL\Dysk Google\UWM\Sztuczna Inteligencja\Programy SI\CW2\DaneZPlikuConsole\DaneZPlikuConsole\obj\Debug\DaneZPlikuConsole.pdb
+C:\Users\Łukasz\Downloads\Łukasz_Stryjewski_Ćwiczenie2-EXAUSTIVE\starter-Csharp\DaneZPlikuConsole\DaneZPlikuConsole\bin\Debug\DaneZPlikuConsole.exe.config
+C:\Users\Łukasz\Downloads\Łukasz_Stryjewski_Ćwiczenie2-EXAUSTIVE\starter-Csharp\DaneZPlikuConsole\DaneZPlikuConsole\bin\Debug\DaneZPlikuConsole.exe
+C:\Users\Łukasz\Downloads\Łukasz_Stryjewski_Ćwiczenie2-EXAUSTIVE\starter-Csharp\DaneZPlikuConsole\DaneZPlikuConsole\bin\Debug\DaneZPlikuConsole.pdb
+C:\Users\Łukasz\Downloads\Łukasz_Stryjewski_Ćwiczenie2-EXAUSTIVE\starter-Csharp\DaneZPlikuConsole\DaneZPlikuConsole\bin\Debug\KwCombinatorics.dll
+C:\Users\Łukasz\Downloads\Łukasz_Stryjewski_Ćwiczenie2-EXAUSTIVE\starter-Csharp\DaneZPlikuConsole\DaneZPlikuConsole\obj\Debug\DaneZPlikuConsole.csprojResolveAssemblyReference.cache
+C:\Users\Łukasz\Downloads\Łukasz_Stryjewski_Ćwiczenie2-EXAUSTIVE\starter-Csharp\DaneZPlikuConsole\DaneZPlikuConsole\obj\Debug\DaneZPlikuConsole.exe
+C:\Users\Łukasz\Downloads\Łukasz_Stryjewski_Ćwiczenie2-EXAUSTIVE\starter-Csharp\DaneZPlikuConsole\DaneZPlikuConsole\obj\Debug\DaneZPlikuConsole.pdb
+F:\kopia_asus\Downloads\Łukasz_Stryjewski_Ćwiczenie2-EXAUSTIVE\starter-Csharp\DaneZPlikuConsole\DaneZPlikuConsole\bin\Debug\DaneZPlikuConsole.exe.config
+F:\kopia_asus\Downloads\Łukasz_Stryjewski_Ćwiczenie2-EXAUSTIVE\starter-Csharp\DaneZPlikuConsole\DaneZPlikuConsole\bin\Debug\DaneZPlikuConsole.exe
+F:\kopia_asus\Downloads\Łukasz_Stryjewski_Ćwiczenie2-EXAUSTIVE\starter-Csharp\DaneZPlikuConsole\DaneZPlikuConsole\bin\Debug\DaneZPlikuConsole.pdb
+F:\kopia_asus\Downloads\Łukasz_Stryjewski_Ćwiczenie2-EXAUSTIVE\starter-Csharp\DaneZPlikuConsole\DaneZPlikuConsole\bin\Debug\KwCombinatorics.dll
+F:\kopia_asus\Downloads\Łukasz_Stryjewski_Ćwiczenie2-EXAUSTIVE\starter-Csharp\DaneZPlikuConsole\DaneZPlikuConsole\obj\Debug\DaneZPlikuConsole.csprojResolveAssemblyReference.cache
+F:\kopia_asus\Downloads\Łukasz_Stryjewski_Ćwiczenie2-EXAUSTIVE\starter-Csharp\DaneZPlikuConsole\DaneZPlikuConsole\obj\Debug\DaneZPlikuConsole.exe
+F:\kopia_asus\Downloads\Łukasz_Stryjewski_Ćwiczenie2-EXAUSTIVE\starter-Csharp\DaneZPlikuConsole\DaneZPlikuConsole\obj\Debug\DaneZPlikuConsole.pdb
