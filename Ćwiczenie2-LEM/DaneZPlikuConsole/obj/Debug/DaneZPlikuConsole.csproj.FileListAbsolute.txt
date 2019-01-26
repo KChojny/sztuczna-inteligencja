@@ -1,0 +1,42 @@
+C:\Users\JacekL\Documents\Visual Studio 2015\Projects\DaneZPlikuConsole\DaneZPlikuConsole\bin\Debug\DaneZPlikuConsole.exe.config
+C:\Users\JacekL\Documents\Visual Studio 2015\Projects\DaneZPlikuConsole\DaneZPlikuConsole\bin\Debug\DaneZPlikuConsole.exe
+C:\Users\JacekL\Documents\Visual Studio 2015\Projects\DaneZPlikuConsole\DaneZPlikuConsole\bin\Debug\DaneZPlikuConsole.pdb
+C:\Users\JacekL\Documents\Visual Studio 2015\Projects\DaneZPlikuConsole\DaneZPlikuConsole\obj\Debug\DaneZPlikuConsole.csprojResolveAssemblyReference.cache
+C:\Users\JacekL\Documents\Visual Studio 2015\Projects\DaneZPlikuConsole\DaneZPlikuConsole\obj\Debug\DaneZPlikuConsole.exe
+C:\Users\JacekL\Documents\Visual Studio 2015\Projects\DaneZPlikuConsole\DaneZPlikuConsole\obj\Debug\DaneZPlikuConsole.pdb
+C:\Users\JacekL\Dysk Google\UWM\Sztuczna Inteligencja\Programy SI\CW2\DaneZPlikuConsole\DaneZPlikuConsole\bin\Debug\DaneZPlikuConsole.exe.config
+C:\Users\JacekL\Dysk Google\UWM\Sztuczna Inteligencja\Programy SI\CW2\DaneZPlikuConsole\DaneZPlikuConsole\obj\Debug\DaneZPlikuConsole.exe
+C:\Users\JacekL\Dysk Google\UWM\Sztuczna Inteligencja\Programy SI\CW2\DaneZPlikuConsole\DaneZPlikuConsole\obj\Debug\DaneZPlikuConsole.pdb
+C:\Users\Łukasz\Downloads\SI-c2\starter-Csharp\DaneZPlikuConsole\DaneZPlikuConsole\bin\Debug\DaneZPlikuConsole.exe.config
+C:\Users\Łukasz\Downloads\SI-c2\starter-Csharp\DaneZPlikuConsole\DaneZPlikuConsole\bin\Debug\DaneZPlikuConsole.exe
+C:\Users\Łukasz\Downloads\SI-c2\starter-Csharp\DaneZPlikuConsole\DaneZPlikuConsole\bin\Debug\DaneZPlikuConsole.pdb
+C:\Users\Łukasz\Downloads\SI-c2\starter-Csharp\DaneZPlikuConsole\DaneZPlikuConsole\obj\Debug\DaneZPlikuConsole.csprojResolveAssemblyReference.cache
+C:\Users\Łukasz\Downloads\SI-c2\starter-Csharp\DaneZPlikuConsole\DaneZPlikuConsole\obj\Debug\DaneZPlikuConsole.exe
+C:\Users\Łukasz\Downloads\SI-c2\starter-Csharp\DaneZPlikuConsole\DaneZPlikuConsole\obj\Debug\DaneZPlikuConsole.pdb
+C:\Users\Łukasz\Downloads\Łukasz_Stryjewski-LEM\starter-Csharp\DaneZPlikuConsole\DaneZPlikuConsole\obj\Debug\DaneZPlikuConsole.csprojResolveAssemblyReference.cache
+C:\Users\Łukasz\Downloads\Łukasz_Stryjewski-LEM\starter-Csharp\DaneZPlikuConsole\DaneZPlikuConsole\obj\Debug\DaneZPlikuConsole.exe
+C:\Users\Łukasz\Downloads\Łukasz_Stryjewski-LEM\starter-Csharp\DaneZPlikuConsole\DaneZPlikuConsole\obj\Debug\DaneZPlikuConsole.pdb
+C:\Users\Łukasz\Downloads\Łukasz_Stryjewski-LEM\starter-Csharp\DaneZPlikuConsole\DaneZPlikuConsole\bin\Debug\DaneZPlikuConsole.exe.config
+C:\Users\Łukasz\Downloads\Łukasz_Stryjewski-LEM\starter-Csharp\DaneZPlikuConsole\DaneZPlikuConsole\bin\Debug\DaneZPlikuConsole.exe
+C:\Users\Łukasz\Downloads\Łukasz_Stryjewski-LEM\starter-Csharp\DaneZPlikuConsole\DaneZPlikuConsole\bin\Debug\DaneZPlikuConsole.pdb
+C:\Users\Użytkownik\Desktop\Łukasz_Stryjewski-LEM\starter-Csharp\DaneZPlikuConsole\DaneZPlikuConsole\bin\Debug\DaneZPlikuConsole.exe.config
+C:\Users\Użytkownik\Desktop\Łukasz_Stryjewski-LEM\starter-Csharp\DaneZPlikuConsole\DaneZPlikuConsole\bin\Debug\DaneZPlikuConsole.exe
+C:\Users\Użytkownik\Desktop\Łukasz_Stryjewski-LEM\starter-Csharp\DaneZPlikuConsole\DaneZPlikuConsole\bin\Debug\DaneZPlikuConsole.pdb
+C:\Users\Użytkownik\Desktop\Łukasz_Stryjewski-LEM\starter-Csharp\DaneZPlikuConsole\DaneZPlikuConsole\obj\Debug\DaneZPlikuConsole.csprojAssemblyReference.cache
+C:\Users\Użytkownik\Desktop\Łukasz_Stryjewski-LEM\starter-Csharp\DaneZPlikuConsole\DaneZPlikuConsole\obj\Debug\DaneZPlikuConsole.csproj.CoreCompileInputs.cache
+C:\Users\Użytkownik\Desktop\Łukasz_Stryjewski-LEM\starter-Csharp\DaneZPlikuConsole\DaneZPlikuConsole\obj\Debug\DaneZPlikuConsole.exe
+C:\Users\Użytkownik\Desktop\Łukasz_Stryjewski-LEM\starter-Csharp\DaneZPlikuConsole\DaneZPlikuConsole\obj\Debug\DaneZPlikuConsole.pdb
+C:\Users\Użytkownik\Desktop\LEM\starter-Csharp\DaneZPlikuConsole\DaneZPlikuConsole\bin\Debug\DaneZPlikuConsole.exe.config
+C:\Users\Użytkownik\Desktop\LEM\starter-Csharp\DaneZPlikuConsole\DaneZPlikuConsole\bin\Debug\DaneZPlikuConsole.exe
+C:\Users\Użytkownik\Desktop\LEM\starter-Csharp\DaneZPlikuConsole\DaneZPlikuConsole\bin\Debug\DaneZPlikuConsole.pdb
+C:\Users\Użytkownik\Desktop\LEM\starter-Csharp\DaneZPlikuConsole\DaneZPlikuConsole\obj\Debug\DaneZPlikuConsole.csprojAssemblyReference.cache
+C:\Users\Użytkownik\Desktop\LEM\starter-Csharp\DaneZPlikuConsole\DaneZPlikuConsole\obj\Debug\DaneZPlikuConsole.csproj.CoreCompileInputs.cache
+C:\Users\Użytkownik\Desktop\LEM\starter-Csharp\DaneZPlikuConsole\DaneZPlikuConsole\obj\Debug\DaneZPlikuConsole.exe
+C:\Users\Użytkownik\Desktop\LEM\starter-Csharp\DaneZPlikuConsole\DaneZPlikuConsole\obj\Debug\DaneZPlikuConsole.pdb
+C:\Users\Użytkownik\Desktop\Ćwiczenie2-LEM\Ćwiczenie2-LEM\DaneZPlikuConsole\DaneZPlikuConsole\bin\Debug\DaneZPlikuConsole.exe.config
+C:\Users\Użytkownik\Desktop\Ćwiczenie2-LEM\Ćwiczenie2-LEM\DaneZPlikuConsole\DaneZPlikuConsole\bin\Debug\DaneZPlikuConsole.exe
+C:\Users\Użytkownik\Desktop\Ćwiczenie2-LEM\Ćwiczenie2-LEM\DaneZPlikuConsole\DaneZPlikuConsole\bin\Debug\DaneZPlikuConsole.pdb
+C:\Users\Użytkownik\Desktop\Ćwiczenie2-LEM\Ćwiczenie2-LEM\DaneZPlikuConsole\DaneZPlikuConsole\obj\Debug\DaneZPlikuConsole.csprojAssemblyReference.cache
+C:\Users\Użytkownik\Desktop\Ćwiczenie2-LEM\Ćwiczenie2-LEM\DaneZPlikuConsole\DaneZPlikuConsole\obj\Debug\DaneZPlikuConsole.csproj.CoreCompileInputs.cache
+C:\Users\Użytkownik\Desktop\Ćwiczenie2-LEM\Ćwiczenie2-LEM\DaneZPlikuConsole\DaneZPlikuConsole\obj\Debug\DaneZPlikuConsole.exe
+C:\Users\Użytkownik\Desktop\Ćwiczenie2-LEM\Ćwiczenie2-LEM\DaneZPlikuConsole\DaneZPlikuConsole\obj\Debug\DaneZPlikuConsole.pdb
